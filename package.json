@@ -1,0 +1,23 @@
+{
+  "name": "chc-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaromirSvejda/chc-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaromirSvejda/chc-javascript/issues"
+  },
+  "homepage": "https://github.com/jaromirSvejda/chc-javascript#readme",
+  "dependencies": {
+    "validator": "^13.12.0"
+  }
+}
